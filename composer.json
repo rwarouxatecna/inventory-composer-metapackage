@@ -31,7 +31,7 @@
         "magento/module-inventory-grouped-product-admin-ui": "1.0.5-beta2",
         "magento/module-inventory-grouped-product-indexer": "1.0.4-beta2",
         "magento/module-inventory-import-export": "1.0.5-beta2",
-        "magento/module-inventory-indexer": "1.0.5-beta2",
+        "magento/module-inventory-indexer": "*",
         "magento/module-inventory-low-quantity-notification": "1.0.5-beta2",
         "magento/module-inventory-low-quantity-notification-admin-ui": "1.0.5-beta2",
         "magento/module-inventory-low-quantity-notification-api": "1.0.4-beta2",
